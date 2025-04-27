@@ -1,0 +1,10 @@
+aiogram==3.2.0
+aiohttp
+python-dotenv
+requests
+openai
+apscheduler
+dotenv
+
+#Установите необходимые зависимости для Rust
+#curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
